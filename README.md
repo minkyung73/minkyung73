@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **minkyung73/minkyung73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a href="https://www.notion.so/home-page-ac2597bf8ce74b3ca5bd2c310b3ae32e">Welcome to my home page!</a>
+ <a href="https://www.notion.so/home-page-ac2597bf8ce74b3ca5bd2c310b3ae32e">🌱Welcome to my home page!🌱</a>
