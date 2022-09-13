@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a href="https://www.notion.so/home-page-ac2597bf8ce74b3ca5bd2c310b3ae32e">hh</a>
+ <a href="https://www.notion.so/home-page-ac2597bf8ce74b3ca5bd2c310b3ae32e">Welcome to my home page!</a>
