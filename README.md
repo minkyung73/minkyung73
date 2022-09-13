@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <a href="https://www.notion.so/home-page-ac2597bf8ce74b3ca5bd2c310b3ae32e">hh</a>
